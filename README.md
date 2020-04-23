@@ -2,7 +2,7 @@
 Modding hub for the Desktop Meadow
 
 ## DISCLAIMER
-packs dont work now. hopfully *sammy* will add mod support
+packs dont work now. hopfully *sammy* will add *mod support*
 
 
 ## [View Packs](rp/index/INDEX.md)
@@ -18,9 +18,3 @@ GameLover153 was the first person to make a pack!
 
 and no one else was here do dodod dodo 
 
-
-
-
-
-here is a joke only for people who know when we were on Discord
-VUK DONT CRY!!!
