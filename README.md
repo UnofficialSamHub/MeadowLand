@@ -16,4 +16,3 @@ No decompiling and making actual mods for now please!
 
 GameLover153 was the first person to make a pack!
 
-pixelomer was the first one to get into the code!!!
