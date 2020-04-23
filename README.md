@@ -2,7 +2,7 @@
 Modding hub for the Desktop Meadow
 
 ## DISCLAIMER
-packs dont work now. hopfully *sammy* will add *mod support.* tell then request us mods in the issues page
+packs dont work now. hopfully *sammy* will add *mod support.* tell then request us a request [here](https://github.com/UnofficialSamHub/MeadowLand/issues/new/choose)
 
 
 
