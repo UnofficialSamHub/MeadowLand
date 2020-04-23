@@ -1,5 +1,5 @@
 # Meadow Land
-Modding hub for the Desktop Meadow
+Modding hub for the Desktop Meadow by the boys from ResourceHub!
 
 ## DISCLAIMER
 packs dont work now. hopfully *sammy* will add *mod support.* tell then request us a request [here](https://github.com/UnofficialSamHub/MeadowLand/issues/new/choose)
