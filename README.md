@@ -20,5 +20,7 @@ and no one else was here do dodod dodo
 
 
 
-here is a joke only for people who know it
+
+
+here is a joke only for people who know when we were on Discord
 VUK DONT CRY!!!
