@@ -2,7 +2,8 @@
 Modding hub for the Desktop Meadow
 
 ## DISCLAIMER
-packs dont work now. hopfully *sammy* will add *mod support*
+packs dont work now. hopfully *sammy* will add *mod support.* tell then request us mods in the issues page
+
 
 
 ## [View Packs](rp/index/INDEX.md)
