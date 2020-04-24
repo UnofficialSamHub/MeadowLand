@@ -1,3 +1,7 @@
+# Meadow Land is currently unavailable
+Meadow Land will return when some sort of mod support is made.
+
+<!--
 # Meadow Land
 Modding hub for the Desktop Meadow, delivered to you by the ResourceHub project
 
@@ -13,4 +17,5 @@ No decompiling and making actual mods for now please!
 
 ## Records!
 
-GameLover153 was the first person to make a pack!
+GameLover153 was the first person to make a pack! 
+-->
