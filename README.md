@@ -10,6 +10,10 @@ Modding hub for the Desktop Meadow, delivered to you by the ResourceHub project
 "Resource Packs" for now, AKA modifying the "FormContent" folder.
 No decompiling and making actual mods for now please!
 
+## Want to chat with the staff?!
+
+Chat with us on [Sams Discord](https://discord.gg/mXDzAzw) in the #desktop-meadow channel!
+
 ## Records!
 GamerBoi153 was the first person to make a pack!
 
