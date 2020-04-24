@@ -20,7 +20,7 @@ Pot Noodle was the first person to make a pack WORK! *clap clap clap!*
 ## Credit
 MeadowLand created by Vuk or VukAnd
 
-Commiter and Paretner of MeadowLand, GamerBoi153
+Commiter and Partner of MeadowLand, GamerBoi153
 
 Logo And Comic Sans Pack and also Sand Castle Sprite by Pot Noddle
 
