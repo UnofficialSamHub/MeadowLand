@@ -1,9 +1,11 @@
 # Meadow Land is currently unavailable
+
 Meadow Land will return when some sort of mod/pack support is made.
 
 ## UPDATE
 
-Sam said he HOPES to do pack support (no promises)
+Sam said he HOPES to do pack support (no promises, fingers crossed!)
+
 <!--
 # Meadow Land
 Modding hub for the Desktop Meadow, delivered to you by the ResourceHub project
