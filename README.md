@@ -1,5 +1,5 @@
 # Meadow Land is currently unavailable
-Meadow Land will return when some sort of mod support is made.
+Meadow Land will return when some sort of mod/pack support is made.
 
 <!--
 # Meadow Land
