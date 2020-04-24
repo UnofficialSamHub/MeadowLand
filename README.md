@@ -1,6 +1,8 @@
 # Meadow Land
 Modding hub for the Desktop Meadow, delivered to you by the ResourceHub project
-(logo is in the making)
+
+(MeadowLand logo is in the making)
+
 ## [View Packs](rp/index/INDEX.md)
 
 ## What can I add to Meadow Land?
