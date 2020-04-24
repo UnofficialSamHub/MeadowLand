@@ -1,5 +1,5 @@
 # Meadow Land
-Modding hub for the Desktop Meadow by the boys from ResourceHub!
+Modding hub for the Desktop Meadow, delivered to you by the ResourceHub project
 
 ## UPDATE
 
