@@ -15,3 +15,15 @@ GamerBoi153 was the first person to make a pack!
 
 Pot Noodle was the first person to make a pack WORK! *clap clap clap!*
 
+
+
+## Credit
+MeadowLand created by Vuk or VukAnd
+
+Commiter and Paretner of MeadowLand, GamerBoi153
+
+Logo And Comic Sans Pack and also Sand Castle Sprite by Pot Noddle
+
+## Want to help?
+
+Make a fork of this [Here](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request!
