@@ -3,7 +3,7 @@ Modding hub for the Desktop Meadow by the boys from ResourceHub!
 
 ## UPDATE
 
-Sam said he's hopes to do pck support
+Sam said he's HOPES to do pack support (no promises he said)
 
 ## DISCLAIMER
 packs dont work now. hopfully *sammy* will add *pack support.* tell then request us a request [here](https://github.com/UnofficialSamHub/MeadowLand/issues/new/choose)
