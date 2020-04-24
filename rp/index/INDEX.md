@@ -1,3 +1,3 @@
 # Resource Pack List
 
-[Comic Sans Pack](../ComicSans.md)
+[Comic Sans Pack]             (../ComicSans.md)
