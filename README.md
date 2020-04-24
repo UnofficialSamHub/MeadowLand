@@ -5,6 +5,7 @@ Meadow Land will return when some sort of mod/pack support is made.
 ## UPDATE
 
 Sam said he HOPES to do pack support (no promises, fingers crossed!)
+apperently BirdFont can acces the files and you can add avaters, im currently looking into this
 
 <!--
 # Meadow Land
