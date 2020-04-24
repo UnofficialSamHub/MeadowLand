@@ -26,4 +26,4 @@ Logo And Comic Sans Pack and also Sand Castle Sprite by Pot Noddle
 
 ## Want to help?
 
-Make a fork of this [Here](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request!
+Make a fork of this [Here](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us (us as in (MeadowLand Member) GameLover153#8673 and Vuk (MeadowLand Creator)Vuk#2000 on Discord!
