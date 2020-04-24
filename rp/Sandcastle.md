@@ -4,4 +4,4 @@
  
 ## How to add:
 
-go to C:\Program Files (x86)\Samperson\Desktop Meadow\Content\Graphics then drop the xnb file!
+Go to C:\Program Files (x86)\Samperson\Desktop Meadow\Content\Graphics get rid off the original by putting it on your desktop then drop the xnb file!
