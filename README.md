@@ -10,4 +10,5 @@ No decompiling and making actual mods for now please!
 ## Records!
 GamerBoi153 was the first person to make a pack!
 
-Pot Noddle was the first person to make a pack work!
+Pot Noddle was the first person to make a pack WORK!
+
