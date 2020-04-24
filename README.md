@@ -3,7 +3,7 @@ Meadow Land will return when some sort of mod/pack support is made.
 
 ## UPDATE
 
-Sam said he HOPES to do pack support (no promises)
+Sam said he HOPES to do pack support (no promises) Fingers Crossed!
 <!--
 ## [View Packs](rp/index/INDEX.md)
 
