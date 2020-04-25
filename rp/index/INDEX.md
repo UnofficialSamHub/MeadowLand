@@ -4,4 +4,4 @@
 
 [Sand Castle Sprite Pack](../Sandcastle.md)
 
-[Dark Mode](../DarkMode.md)
+[Dark Mode Sprite Pack](../DarkMode.md)
