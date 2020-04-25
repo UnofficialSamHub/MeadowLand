@@ -1,4 +1,4 @@
-![Image](image link related to pack)
+![Image](https://media.discordapp.net/attachments/702937727754043473/703427530325229599/unknown.png?width=1101&height=98)
 
 **Author** a collaboration between elly 2.0 and Pot Noodle
 
