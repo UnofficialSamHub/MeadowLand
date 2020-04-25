@@ -1,4 +1,6 @@
-# Comic Sans Pack 
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Comic_Sans_font.svg/2000px-Comic_Sans_font.svg.png)
+
+## Comic Sans Pack 
 
 **Author:** *Pot Noodle*
 
