@@ -1,8 +1,8 @@
 
-![Image](https://cdn.discordapp.com/attachments/703363696495427656/703626589346463774/QDwXwKs_18x.png)
+![Image](https://cdn.discordapp.com/attachments/703234077167452161/703626179508174848/unknown.png)
 
 
-theres a glitch where the logo does not show up! you can find image here! https://cdn.discordapp.com/attachments/703363696495427656/703626589346463774/QDwXwKs_18x.png
+theres a glitch where the logo does not show up! you can find image here! https://cdn.discordapp.com/attachments/703234077167452161/703626179508174848/unknown.png
 
 **Author:** *Pot Noodle (techincal help) and Elly 2.0 (pixelartist)*
 
