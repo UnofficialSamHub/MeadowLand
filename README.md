@@ -2,7 +2,7 @@
 
 Modding hub for the Desktop Meadow, delivered to you by the ResourceHub project.
 
-## [View Fonts And Sprites Here](rp/index/INDEX.md)
+## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
 ## What can I add to Meadow Land?
 "Resource Packs" for now, AKA modifying the "FormContent" folder, or you can add sprites using the NatureSheet xnb file AKA "Sprite Packs"
