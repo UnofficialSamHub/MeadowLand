@@ -23,7 +23,9 @@ MeadowLand created by Vuk or VukAnd
 
 Commiter and Partner of MeadowLand, GamerBoi153
 
-Logo And Comic Sans Pack and also Sand Castle Sprite by Pot Noddle
+Logo And Comic Sans Pack and also Sand Castle Sprite by Pot Noodle
+
+Elly 2.0, the designer for Dark Mode
 
 ## Want to help?
 
