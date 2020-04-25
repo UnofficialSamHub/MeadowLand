@@ -4,6 +4,6 @@
 
  [Download](https://drive.google.com/file/d/1Cz-1-8ozvdY8PM73cOwUZXhotgAgIUdQ/view?usp=sharing)
  
-## How to add:
+## Installation guide
 
 
