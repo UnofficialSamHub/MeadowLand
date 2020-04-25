@@ -11,22 +11,13 @@ No decompiling and making actual mods for now please!
 
 ## Want to chat with the staff?!
 
-Chat with us on [Sams Discord](https://discord.gg/mXDzAzw) in the #desktop-meadow channel!
+Chat with us on [Sam's Discord](https://discord.gg/mXDzAzw) in the #desktop-meadow channel!
 
 ## Records!
 GamerBoi153 was the first person to make a pack!
 
 Pot Noodle was the first person to make a pack WORK! *clap clap clap!*
 
-## Credits
-MeadowLand created by Vuk or VukAnd
-
-Commiter and Partner of MeadowLand, GamerBoi153
-
-Logo And Comic Sans Pack and also Sand Castle Sprite by Pot Noodle
-
-Elly 2.0, the designer for Dark Mode
-
 ## Want to help?
 
-Make a fork of this [Here](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us how to mod the game more! (us as in (MeadowLand Member) GameLover153#8673 and Vuk (MeadowLand Creator)Vuk#2000 on Discord!)
+Make a fork of MeadowLand [here](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us how to mod the game more!
