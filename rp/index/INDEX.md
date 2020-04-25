@@ -3,3 +3,5 @@
 [Comic Sans Font](../ComicSans.md)
 
 [Sand Castle Sprite Pack](../Sandcastle.md)
+
+[Dark Mode](../DarkMode.md)
