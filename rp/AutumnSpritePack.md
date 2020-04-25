@@ -1,5 +1,5 @@
 
-![Image](https://cdn.discordapp.com/attachments/703234077167452161/703626179508174848/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/703363696495427656/703626589346463774/QDwXwKs_18x.png)
 
 
 **Author:** *Pot Noodle (techincal help) and Elly 2.0 (pixelartist)*
