@@ -13,6 +13,8 @@ No decompiling and making actual mods for now please!
 
 Chat with us on [Sam's Discord](https://discord.gg/mXDzAzw) in the #desktop-meadow channel!
 
+Or The [MeadowLand Discord](https://discord.gg/AYRn9WG)
+
 ## Records!
 GamerBoi153 was the first person to make a pack!
 
