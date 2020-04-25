@@ -10,6 +10,8 @@ theres a glitch where the logo does not show up! you can find image here! https:
 
 ## Extra
 
+![Image](https://cdn.discordapp.com/attachments/703234077167452161/703633743335653394/unknown.png)
+
 Font [Download](https://cdn.discordapp.com/attachments/703234077167452161/703633818011172904/RENAMEME.ttf)
 
 # Installation guide
