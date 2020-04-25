@@ -20,4 +20,4 @@ Pot Noodle was the first person to make a pack WORK! *clap clap clap!*
 
 ## Want to help?
 
-Make a fork of MeadowLand [here](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us how to mod the game more!
+[Make a fork of MeadowLand on GitHub](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us how to mod the game more!
