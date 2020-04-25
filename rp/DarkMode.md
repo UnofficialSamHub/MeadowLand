@@ -1,6 +1,6 @@
 ![Dark Mode](https://media.discordapp.net/attachments/703273063881375864/703436987192836116/dark_theme_banner.png)
 
-Works better tha darker Backround
+Works better with a darker Backround
 
 **Author:** *a collaboration between elly 2.0 and Pot Noodle*
 
