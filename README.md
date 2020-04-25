@@ -9,11 +9,9 @@ Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub p
 
 No decompiling and making actual mods for now please!
 
-## Want to chat with the staff?!
+## Our Discord!
 
-Chat with us on [Sam's Discord](https://discord.gg/mXDzAzw) in the #desktop-meadow channel!
-
-Or The [MeadowLand Discord](https://discord.gg/AYRn9WG)
+Join our [MeadowLand Discord!](https://discord.gg/AYRn9WG)
 
 ## Records!
 GamerBoi153 was the first person to make a pack!
