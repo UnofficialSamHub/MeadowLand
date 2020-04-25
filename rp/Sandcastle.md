@@ -1,4 +1,4 @@
-![Image](https://miro.medium.com/max/1000/1*WhbEgbtFv3PX8u344iyidA.png)
+![Sand Castle](https://i.imgur.com/ljkftWO.png)
 
 ## Sand Castle Sprite Pack
 
