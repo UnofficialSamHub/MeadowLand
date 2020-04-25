@@ -1,4 +1,4 @@
-![Image](https://media.discordapp.net/attachments/702937727754043473/703427530325229599/unknown.png?width=1101&height=98)
+![Image](https://media.discordapp.net/attachments/703273063881375864/703436987192836116/dark_theme_banner.png)
 
 **Author** a collaboration between elly 2.0 and Pot Noodle
 
