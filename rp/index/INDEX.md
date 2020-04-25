@@ -1,5 +1,5 @@
 # Resource Pack List
 
-[Comic Sans Pack](../ComicSans.md)
+[Comic Sans Font](../ComicSans.md)
 
-[Sand Castle Sprite](../Sandcastle.md)
+[Sand Castle Sprite Pack](../Sandcastle.md)
