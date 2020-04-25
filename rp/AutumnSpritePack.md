@@ -1,4 +1,8 @@
+<!-- 
 ![Image](image link related to pack)
+-->
+
+No logo yet!
 
 **Author:** *Pot Noodle (techincal help) and Elly 2.0 (pixelartist)*
 
