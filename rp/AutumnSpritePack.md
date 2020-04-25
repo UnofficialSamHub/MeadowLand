@@ -16,4 +16,6 @@ Font [Download](https://cdn.discordapp.com/attachments/703234077167452161/703633
 1. Go to `C:\Program Files (x86)\Samperson\Desktop Meadow\Content\Graphics`. 
 2. Get rid of the original xnb file by putting it on your desktop.
 3. Put the new xnb file in the folder.
+4. If you got the font ttf rename it to OpenDyslexic3-Regular.ttf
+5. then go to C:\Program Files (x86)\Samperson\Desktop Meadow\FormContent and replace the file!
 
