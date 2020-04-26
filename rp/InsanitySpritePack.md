@@ -1,9 +1,10 @@
-*Authors* *Mr.Rampage and Pot Noodle*
+*Authors* *Mr.Rampage*
 
-**Download link:** *[Download](https://cdn.discordapp.com/attachments/703769894310903858/703773405198942248/Arial.xnb)*
-
+**Download link:** *[Download](https://drive.google.com/file/d/1LhU0Si-Y-DNEAtr1P1vOYymNs9Dqe7ks/view?usp=sharing)*
 
 RENAME TO NatureSheet
 {% include graphics_install.md %}
 
+**Letter Background Download:** *[Download](https://drive.google.com/file/d/1ZyhxK78houbILi-tZVaZd71ZLbpE82if/view?usp=sharing)*
 
+{% include formcontent_install.md %}
