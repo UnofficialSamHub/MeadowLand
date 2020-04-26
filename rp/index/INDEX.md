@@ -9,3 +9,5 @@
 [Autumn Sprite Pack (Optional Font)](../AutumnSpritePack.md) (Autumn themed look!)
 
 [Insanity Sprite Pack](../InsanitySpritePack.md) (random crap)
+
+[Winter Sprite Pack](../WinterSpritePAck.md) (Winter theme!)
