@@ -10,4 +10,4 @@
 
 [Insanity Sprite Pack](../InsanitySpritePack.md) (random crap)
 
-[Winter Sprite Pack](../WinterSpritePAck.md) (Winter theme!)
+[Winter Sprite Pack](../WinterSpritePack.md) (Winter theme!)
