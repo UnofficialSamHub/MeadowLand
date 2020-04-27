@@ -2,6 +2,10 @@
 
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 
+## Our Discord!
+
+Join our [MeadowLand Discord!](https://discord.gg/AYRn9WG)
+
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
 ## What can I add to Meadow Land?
@@ -16,10 +20,6 @@ Running the script will bring up a blank window. Resize this window to where you
 Example:
 
 ![Example](https://user-images.githubusercontent.com/60161840/80380026-93713b00-8864-11ea-9ffc-0632b17a6732.gif)
-
-## Our Discord!
-
-Join our [MeadowLand Discord!](https://discord.gg/AYRn9WG)
 
 ## Records!
 GamerBoi153 was the first person to make a pack!
