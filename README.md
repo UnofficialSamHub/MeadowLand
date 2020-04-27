@@ -14,7 +14,7 @@ Download [this](https://github.com/Moonaliss1/desktopmeadowtool/releases/downloa
 Running the script will bring up a blank window. Resize this window to where you want the hitbox of the object to be, and when you're happy with the positioning, right click the window. the window will go invisible. When you want to close it, just locate it on your taskbar and hit the x.
 
 Example:
-![alt text](https://imgur.com/MU7q9EI.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="MU7q9EI"><a href="https://imgur.com/MU7q9EI">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Our Discord!
 
