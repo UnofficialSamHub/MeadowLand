@@ -1,6 +1,7 @@
 ![Comic Sans](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Comic_Sans_font.svg/2000px-Comic_Sans_font.svg.png)
+*oh no*
 
-## Comic Sans Pack 
+## Comic Sans Pack
 
 **Author:** *Pot Noodle*
 
@@ -14,4 +15,3 @@ Public Domain, https://commons.wikimedia.org/w/index.php?curid=743486
 ## Note
 
 It does not look like Comic Sans dont worry, we tricking the app to thinking its the default font but its really Comic Sans inside the code! :)
-

@@ -1,5 +1,5 @@
-
 ![Autumn Pack](https://cdn.discordapp.com/attachments/703234077167452161/703626179508174848/unknown.png)
+*Because who doesn't like seasonal packs?*
 
 **Author:** *Pot Noodle (techincal help) and Elly 2.0 (pixelartist)*
 
