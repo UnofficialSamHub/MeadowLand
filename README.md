@@ -13,8 +13,7 @@ No decompiling and making actual mods for now please!
 Download [this](https://github.com/Moonaliss1/desktopmeadowtool/releases/download/v1/blank.pyw) python script.
 Running the script will bring up a blank window. Resize this window to where you want the hitbox of the object to be, and when you're happy with the positioning, right click the window. the window will go invisible. When you want to close it, just locate it on your taskbar and hit the x.
 
-Example:
-https://media.giphy.com/media/fr4W0rd48MhOR59iP4/giphy.gif
+[Example]https://media.giphy.com/media/fr4W0rd48MhOR59iP4/giphy.gif
 
 ## Our Discord!
 
