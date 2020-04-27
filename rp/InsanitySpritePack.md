@@ -4,6 +4,8 @@
 
 {% include graphics_install.md %}
 
+---
+
 **Letter Background Download:** *[Download](https://drive.google.com/file/d/1ZyhxK78houbILi-tZVaZd71ZLbpE82if/view?usp=sharing)*
 
 {% include formcontent_install.md %}

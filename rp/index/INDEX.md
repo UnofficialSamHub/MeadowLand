@@ -1,13 +1,17 @@
 # Resource Pack List
 
-[Comic Sans Font](../ComicSans.md) (changes letter font to Comic Sans)
+[Comic Sans Font](../ComicSans.md)
 
-[Sand Castle Sprite Pack](../Sandcastle.md) (Adds a Sand Castle on top of tab *sometimes*)
+[Sand Castle Sprite Pack](../Sandcastle.md)
 
-[Dark Mode Sprite Pack](../DarkMode.md) (All the Sprites are dark blue to make a Dark Mode)
+[Dark Mode Sprite Pack](../DarkMode.md)
 
-[Autumn Sprite Pack (Optional Font)](../AutumnSpritePack.md) (Autumn themed look!)
+[Autumn Sprite Pack (Optional Font)](../AutumnSpritePack.md)
 
-[Insanity Sprite Pack](../InsanitySpritePack.md) (random crap)
+[Insanity Sprite Pack](../InsanitySpritePack.md)
 
-[Winter Sprite Pack](../WinterSpritePack.md) (Winter theme!)
+[Winter Sprite Pack](../WinterSpritePack.md)
+
+[1-Bit Sprite Pack](../1bitpack.md)
+
+[Minecraft Flowers Sprite Pack](../MinecraftFlowers.md)
