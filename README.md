@@ -14,7 +14,8 @@ Download [this](https://github.com/Moonaliss1/desktopmeadowtool/releases/downloa
 Running the script will bring up a blank window. Resize this window to where you want the hitbox of the object to be, and when you're happy with the positioning, right click the window. the window will go invisible. When you want to close it, just locate it on your taskbar and hit the x.
 
 Example:
-<a href="https://ibb.co/GTd61cN"><img src="https://i.ibb.co/X8WQdSM/2020-04-26-19-00-16.gif" alt="2020-04-26-19-00-16" border="0" /></a>
+
+<iframe src="https://giphy.com/embed/fr4W0rd48MhOR59iP4" width="480" height="406" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fr4W0rd48MhOR59iP4">via GIPHY</a></p>
 
 ## Our Discord!
 
