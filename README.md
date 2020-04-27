@@ -15,7 +15,7 @@ Running the script will bring up a blank window. Resize this window to where you
 
 Example:
 
-<iframe src="https://giphy.com/embed/fr4W0rd48MhOR59iP4" width="480" height="406" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fr4W0rd48MhOR59iP4">via GIPHY</a></p>
+![alttext](https://media.giphy.com/media/fr4W0rd48MhOR59iP4/giphy.gif)
 
 ## Our Discord!
 
