@@ -14,7 +14,7 @@ Download [this](https://github.com/Moonaliss1/desktopmeadowtool/releases/downloa
 Running the script will bring up a blank window. Resizee this window to where you want the hitbox of the object to be, and when you're happy with the positioning, right click the window. the window will go invisible.
 
 Example:
-![](https://i.imgur.com/YdmAWaa.gifv)
+![](https://i.imgur.com/YdmAWaa.gif)
 
 ## Our Discord!
 
