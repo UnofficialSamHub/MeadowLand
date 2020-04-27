@@ -15,7 +15,7 @@ Running the script will bring up a blank window. Resize this window to where you
 
 Example:
 
-![alttext](https://media.giphy.com/media/fr4W0rd48MhOR59iP4/giphy.gif)
+https://giphy.com/gifs/fr4W0rd48MhOR59iP4
 
 ## Our Discord!
 
