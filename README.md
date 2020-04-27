@@ -2,10 +2,6 @@
 
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 
-## Our Discord!
-
-Join our [MeadowLand Discord!](https://discord.gg/AYRn9WG)
-
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
 ## What can I add to Meadow Land?
