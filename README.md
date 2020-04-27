@@ -9,12 +9,12 @@ Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub p
 
 No decompiling and making actual mods for now please!
 
-## I have a feature in my wallpaper that I want birds to land on. How can i do this?
+## I have a feature in my wallpaper that I want birds to land on (a shelf, window ledge, etc.) , How can i do this?
 Download [this](https://github.com/Moonaliss1/desktopmeadowtool/releases/download/v1/blank.pyw) python script.
 Running the script will bring up a blank window. Resizee this window to where you want the hitbox of the object to be, and when you're happy with the positioning, right click the window. the window will go invisible.
 
 Example:
-![gif](https://i.ibb.co/WtHhdgj/2020-04-26-19-00-16.gif)
+![alt text](https://i.ibb.co/WtHhdgj/2020-04-26-19-00-16.gif)
 
 ## Our Discord!
 
