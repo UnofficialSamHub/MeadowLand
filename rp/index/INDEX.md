@@ -16,3 +16,4 @@
 
 [Minecraft Flowers Sprite Pack](../MinecraftFlowers.md)
 
+[Only Bird And MailBox Sprite Pack](../OnlyMailAndBirdSpritePack.md) (no flowers and stuff!)
