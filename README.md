@@ -11,7 +11,7 @@ Thanks to Vuk, GamerBoi153, Daniel1899, and Moonaliss for helping and making Mea
 
 ## Get Updates On MeadowLand!
 
-[Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
+## [Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
 
 ## What can I add to Meadow Land?
 "Resource Packs" for now, AKA modifying the "FormContent" folder, or you can add sprites using the NatureSheet xnb file AKA "Sprite Packs"
