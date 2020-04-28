@@ -2,6 +2,8 @@
 
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 
+[Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)
+
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
 ## What can I add to Meadow Land?
