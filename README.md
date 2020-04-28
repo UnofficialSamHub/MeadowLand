@@ -1,6 +1,6 @@
 ![Image](https://cdn.discordapp.com/attachments/702937727754043473/703296452004282538/BCw65lm_50x.png)
 
-Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
+Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project. Thanks to Vuk, GamerBoi153, Daniel1899, and Moonaliss
 
 [![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)](https://github.com/UnofficialSamHub/MeadowLand/issues)
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Funofficialsamhub.github.io%2FMeadowLand%2F)](https://twitter.com/intent/tweet?url=https%3A%2F%2Funofficialsamhub.github.io%2FMeadowLand%2F&via=vuk_samhubs)
