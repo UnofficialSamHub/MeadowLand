@@ -36,3 +36,7 @@ MeadowLand has 200+ commits!
 ## Want to help?
 
 [Make a fork of MeadowLand on GitHub](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us how to mod the game more helps!
+
+## FAQs
+
+Want to know how to make a Spritepack of your own? to find the answer to that and more [Click Here](FAQ.md) to go to our FAQ page
