@@ -19,6 +19,10 @@ Example:
 
 ![Example](https://user-images.githubusercontent.com/60161840/80380026-93713b00-8864-11ea-9ffc-0632b17a6732.gif)
 
+## Get Updates On MeadowLand!
+
+[Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
+
 ## Records!
 GamerBoi153 was the first person to make a pack!
 
