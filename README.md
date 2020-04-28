@@ -9,7 +9,7 @@ Thanks to Vuk, GamerBoi153, Daniel1899, and Moonaliss for helping and making Mea
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
-## Get Updates On MeadowLand!
+
 
 ## [Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
 
