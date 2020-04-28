@@ -3,6 +3,8 @@
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 
 ![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)
+![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Funofficialsamhub.github.io%2FMeadowLand%2F)
+![Twitter Follow](https://img.shields.io/twitter/follow/vuk_samhubs?label=Follow%20us%21&style=social)
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
