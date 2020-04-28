@@ -8,6 +8,10 @@ Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub p
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
+## Get Updates On MeadowLand!
+
+[Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
+
 ## What can I add to Meadow Land?
 "Resource Packs" for now, AKA modifying the "FormContent" folder, or you can add sprites using the NatureSheet xnb file AKA "Sprite Packs"
 
@@ -20,10 +24,6 @@ Running the script will bring up a blank window. Resize this window to where you
 Example:
 
 ![Example](https://user-images.githubusercontent.com/60161840/80380026-93713b00-8864-11ea-9ffc-0632b17a6732.gif)
-
-## Get Updates On MeadowLand!
-
-[Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
 
 ## Records!
 GamerBoi153 was the first person to make a pack!
