@@ -37,5 +37,4 @@ feel free to share them with the community by sharing them on this site by creat
 A this point in time the program both looks at the file name however it also looks inside the .ttf file
 the next update should fix this
 there is a way of getting around this however it is not worth it yet
-if you *Really* want the the font now then you can ping Pot Noodle on the main [Discord](https://discordapp.com/invite/xZFRmPT), if you ask politely, he will make it for you
-(up until the update anyway)
+if you *Really* want the the font now, [here](https://drive.google.com/file/d/1dXz7SouZmQ-jo_grLvVn9jPhxsdXOnFR/view?usp=sharing) is a step by step list on how to modify your own font to be compatible with the garden
