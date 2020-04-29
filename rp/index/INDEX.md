@@ -18,4 +18,6 @@
 
 [Only Bird And MailBox Sprite Pack](../OnlyMailAndBirdSpritePack.md) (no flowers and stuff!)
 
+[Japanese Theme](../JapanPack.md)
+
 [Pink Cutie Mail Pack](../PinkCutie.md)
