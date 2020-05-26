@@ -1,5 +1,10 @@
 ![Image](https://cdn.discordapp.com/attachments/702937727754043473/703296452004282538/BCw65lm_50x.png)
 
+## *MEADOWLAND IS DEAD, VUK IS DOING GIVEAWAYS BUT ALL THE PEOPLE WHO HAVE HELPED MEADOWLAND HAVE MOVED ON AND
+## *VUK IS NOW WORKING FOR SUPPORT FOR THE SALAD DISCORD. WE APPRECIATE EVERYONE WHO USED THIS AND THE PEOPLE MADE THIS POSSIBLE
+## *THANK YOU FOR EVERYTHING, ITS BEEN A HONOR!
+
+
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and making MeadowLand!
 
