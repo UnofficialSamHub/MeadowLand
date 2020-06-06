@@ -7,9 +7,11 @@ Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and 
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Funofficialsamhub.github.io%2FMeadowLand%2F)](https://twitter.com/intent/tweet?url=https%3A%2F%2Funofficialsamhub.github.io%2FMeadowLand%2F&via=vuk_samhubs)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vuk_samhubs?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow?screen_name=vuk_samhubs) 
 
+## Prepare your packs for the Resource Pack update with the [MeadowLandLauncher](https://github.com/UnofficialSamHub/MeadowLauncher/releases)
+
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
-## [Join Our Discord](https://discord.gg/yytD5dz) to get real time updates about new packs are realeased and more!
+## [Join Our Discord](https://discord.gg/trepSJm)
 
 ## What can I add to Meadow Land?
 "Resource Packs" for now, AKA modifying the "FormContent" folder, or you can add sprites using the NatureSheet xnb file AKA "Sprite Packs"
