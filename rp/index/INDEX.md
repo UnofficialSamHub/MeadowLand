@@ -16,7 +16,9 @@
 
 [Minecraft Flowers Sprite Pack](../MinecraftFlowers.md)
 
-[Only Bird And MailBox Sprite Pack](../OnlyMailAndBirdSpritePack.md) (no flowers and stuff!)
+[Only Bird And MailBox Sprite Pack](../OnlyMailAndBirdSpritePack.md)
+
+[All Meadow No Mail](../allmeadownomail.md)
 
 [Japanese Theme](../JapanPack.md)
 
