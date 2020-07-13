@@ -23,3 +23,5 @@
 [Japanese Theme](../JapanPack.md)
 
 [Pink Cutie Mail Pack](../PinkCutie.md)
+
+[Flame Pack](../FirePack.md)
