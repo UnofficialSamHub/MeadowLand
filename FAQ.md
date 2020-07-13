@@ -24,8 +24,9 @@ feel free to share them with the community by sharing them on this site by creat
 3. Take note of the Font Name
 4. Put the font file in the same folder as the rest of the files
 
-## How do i combine all of this into a pack?
+## How do I combine all of this into a pack?
 
+**Use the MeadowLandLauncher for easier generation! [Download MeadowLandLauncher today!](https://github.com/UnofficialSamHub/MeadowLauncher/releases)**
 1. Grab the template [Here](https://drive.google.com/file/d/1Vq4JUMLq9LFSfUV0UEndjm1RdGEm-Oj5/view?usp=sharing)
 2. Put it into the folder where all the other files are
 3. Change lines 5 - 8 accordingly (only modify the file names not anything outside the "")
