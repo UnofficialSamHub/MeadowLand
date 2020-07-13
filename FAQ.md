@@ -5,36 +5,32 @@
 It's great that you are interested in making new themes for this program, thanks
 feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
 
-To extract the .xnb file
-1. Click [this link](https://drive.google.com/file/d/1z5kLzT6r_F685V_qAf0ZNj1TaukU4CSN/view?usp=sharing) and unzip the folder
-2. Locate the .xnb file that should be in `C:\Program Files (x86)\Samperson\Desktop Meadow\Content\Graphics`
-3. Copy that file and paste it into the folder marked `PACKED`
-4. Run `UnpackFiles.bat`
-5. Go into the folder marked `UNPACKED` and you should see 2 files, NatureSheet.png and NatureSheet.yaml
-6. You can now freely modify the .png file (as long as the sprites stay within the [Boundries](), these can't be changed yet)
+1. Get the base PNG by clicking [Here](https://drive.google.com/file/d/1YoKCgoS6XOMIvmqIbLWb0JIXG1apM6Sv/view?usp=sharing)
+2. Modify it as you like it (Please bear in mind that the boundries at this time are fixed, it may take some trial and error to figure them out)
+3. Add it to a folder
 
-To convert it back to a .xnb format
-1. Go into the `UNPACKED` folder and make sure that both the .png and .yaml are in there and are named `NatureSheet`
-2. Run PackFiles.bat
-3. Go into the folder marked `PACKED`
-4. Copy and paste that file into `C:\Program Files (x86)\Samperson\Desktop Meadow\Content\Graphics`
-5. Ensure the file is called `NatureSheet.xnb`
-6. Restart the program and you should have your own custom sprites
-feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
+## I want to change the default green "Mail In" Background
 
-*These steps are likely to change when a new update is released*
-
-## I want to change the default "Mail In" Background
-
-1. go to `C:\Program Files (x86)\Samperson\Desktop Meadow\FormContent` and edit the file named `StationaryGreen`
-2. Make the modifications that you want (Make sure that the .png stays the same size of 64 x 90)
-3. Restart your meadow and wait for a new piece of mail to be delivered, and the background should have changed to your new custom one
+1. create a 64 x 90 sized image
+2. create the design that you want
+3. Add it to the folder along with your spritesheet
 
 *At the moment you are unable to change the "Mail out" design*
 
-## I have this font that I want to use however once I changed the font the program wouldn't load
+## I have this font that I want to use
 
-A this point in time the program both looks at the file name however it also looks inside the .ttf file
-the next update should fix this
-there is a way of getting around this however it is not worth it yet
-if you *Really* want the the font now, [HERE](https://drive.google.com/file/d/1dXz7SouZmQ-jo_grLvVn9jPhxsdXOnFR/view?usp=sharing) is a step by step list on how to modify your own font to be compatible with the garden
+1. Get the font that you want to use
+2. Double click on it to open it
+3. Take note of the Font Name
+4. Put the font file in the same folder as the rest of the files
+
+## How do i combine all of this into a pack?
+
+1. Grab the template [Here](https://drive.google.com/file/d/1Vq4JUMLq9LFSfUV0UEndjm1RdGEm-Oj5/view?usp=sharing)
+2. Put it into the folder where all the other files are
+3. Change lines 5 - 8 accordingly (only modify the file names not anything outside the "")
+4. Highlight all the files in the folder
+5. Click on the share tab in file explorer
+6. Click on zip
+
+If you followed these instructions correctly then you should now have a working pack
