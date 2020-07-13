@@ -7,4 +7,4 @@
 
 **Download link**: *[Download](https://drive.google.com/file/d/1dDJQ836_nvE1uFjNBKtkaMhx6J3T0X4W/view?usp=sharing)*
 
-{% include formcontent_install.md %}
+{% include graphics_install.md %}
