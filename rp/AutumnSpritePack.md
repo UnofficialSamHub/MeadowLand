@@ -13,6 +13,6 @@
 
 ![Image](https://cdn.discordapp.com/attachments/703234077167452161/703633743335653394/unknown.png)
 
-This is now included with the main pack
+##This is now included with the main pack
 
-{% include formcontent_install.md %}
+
