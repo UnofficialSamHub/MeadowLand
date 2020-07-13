@@ -1,4 +1,6 @@
 # Installation guide (Sprite Packs)
-1. Go to `C:\Program Files (x86)\Samperson\Desktop Meadow\Content\Graphics`. 
-2. Get rid of the original xnb file by putting it on your desktop.
-3. Put the new xnb file in the folder.
+1. Go to your system tray (the arrow on the right of your taskbar). 
+2. Right click on the Desktop Meadow logo.
+3. Click on Advanced.
+4. Then Load resource pack.
+5. Select the zip file that you downloaded

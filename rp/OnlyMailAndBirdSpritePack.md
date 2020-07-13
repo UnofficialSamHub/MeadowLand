@@ -4,7 +4,7 @@
 
 **Author:** *Pot Noodle*
 
-**Download link:** *[Download](https://cdn.discordapp.com/attachments/703234077167452161/704462164970438797/NatureSheet_2.xnb)
+**Download link:** *[Download](https://drive.google.com/file/d/1lJjdWGH1AXRdYm5napLFPGbyJg02_lGp/view?usp=sharing)*
 
 {% include graphics_install.md %}
 
