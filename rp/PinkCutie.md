@@ -9,5 +9,5 @@
 
 **Download link (font):** *NOW INCLUDED WITH MAIN PACK*
 
-{% include formcontent_install.md %}
+{% include graphics_install.md %}
 
