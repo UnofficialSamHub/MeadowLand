@@ -5,9 +5,9 @@
 
 ![Image](https://cdn.discordapp.com/attachments/704454914092302367/704732285974478888/StationeryGreen-1.png)
 
-**Mail Background:** *[Download](https://drive.google.com/file/d/1RzzMmEZyR8uyIQKNDs2YHV6hhjZ6s05W/view?usp=sharing)*
+**Mail Background:** *[Download](https://drive.google.com/file/d/1Q0mYjy_R0S1hEHkAajFEnLkXAtamGyp1/view?usp=sharing)*
 
-**Download link (font):** *[Download](https://drive.google.com/file/d/1m8WI870eaQTnqymfeacbMVlG-hUtFAK6/view?usp=sharing)*
+**Download link (font):** *NOW INCLUDED WITH MAIN PACK*
 
 {% include formcontent_install.md %}
 
