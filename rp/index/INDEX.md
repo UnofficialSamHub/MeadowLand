@@ -8,7 +8,7 @@
 
 [Autumn Sprite Pack (Optional Font)](../AutumnSpritePack.md)
 
-[Insanity Sprite Pack](../InsanitySpritePack.md)
+[Insanity Sprite Pack](../InsanitySpritePack.md) 
 
 [Winter Sprite Pack](../WinterSpritePack.md)
 
@@ -25,3 +25,11 @@
 [Pink Cutie Mail Pack](../PinkCutie.md)
 
 [Flame Pack](../FirePack.md)
+
+[Nature Walk (More realistic colo(u)rs)](../NatureWalk.md)
+
+[Mario Pack](../Mariopack.md)
+
+[Spooky Pack](../Spookypack.md)
+
+
