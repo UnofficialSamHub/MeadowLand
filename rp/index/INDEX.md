@@ -32,4 +32,6 @@
 
 [Spooky Pack](../Spookypack.md)
 
+[Candyland Pack](../CandylandSpritePack.md)
 
+[Christmas Pack](../ChristmasSpritePack.md)
