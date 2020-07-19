@@ -1,30 +1,32 @@
 # FAQs
 
-## I want to create my own Sprite Pack, How can I do this
+## I want to create my own Resource Pack
 
-It's great that you are interested in making new themes for this program, thanks
+It's great that you are interested in making new themes for this program, thanks!
 feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
+
+### I want to modify the sprites
 
 1. Get the base PNG by clicking [Here](https://drive.google.com/file/d/1YoKCgoS6XOMIvmqIbLWb0JIXG1apM6Sv/view?usp=sharing)
 2. Modify it as you like it (Please bear in mind that the boundries at this time are fixed, it may take some trial and error to figure them out)
 3. Add it to a folder
 
-## I want to change the default green "Mail In" Background
+### I want to change the default green "Mail In" Background
 
-1. create a 64 x 90 sized image
-2. create the design that you want
+1. Create a 64 x 90 sized image
+2. Create the design that you want
 3. Add it to the folder along with your spritesheet
 
 *At the moment you are unable to change the "Mail out" design*
 
-## I have this font that I want to use
+### I have this font that I want to use
 
 1. Get the font that you want to use
 2. Double click on it to open it
 3. Take note of the Font Name
 4. Put the font file in the same folder as the rest of the files
 
-## How do I combine all of this into a pack?
+### How do I combine all of this into a pack?
 
 **Use the MeadowLandLauncher for easier generation! [Download MeadowLandLauncher today!](https://github.com/UnofficialSamHub/MeadowLauncher/releases)**
 1. Grab the template [Here](https://drive.google.com/file/d/1Vq4JUMLq9LFSfUV0UEndjm1RdGEm-Oj5/view?usp=sharing)
@@ -35,3 +37,11 @@ feel free to share them with the community by sharing them on this site by creat
 6. Click on zip
 
 If you followed these instructions correctly then you should now have a working pack
+
+## I have a feature in my wallpaper that I want birds to land on.
+Download [this](https://github.com/Moonaliss1/desktopmeadowtool/releases/download/v1/blank.pyw) python script by Moonaliss1.
+Running the script will bring up a blank window. Resize this window to where you want the hitbox of the object to be, and when you're happy with the positioning, right click the window. the window will go invisible. When you want to close it, just locate it on your taskbar and hit the x.
+
+Example:
+
+![Example](https://user-images.githubusercontent.com/60161840/80380026-93713b00-8864-11ea-9ffc-0632b17a6732.gif)
