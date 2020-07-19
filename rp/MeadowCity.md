@@ -1,5 +1,5 @@
 ## Meadow City SpritePack
-*HEY! a man has fallen into the river in lego city....  (I am so sorry)*
+*HEY! A man has fallen into the river in Meadow City!*
 
 **Author:** *funtainment*
 
