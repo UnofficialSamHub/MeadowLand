@@ -2,6 +2,8 @@
 
 **MLM currently requires administrator permissions.** If you do not have administrator permissions, follow the FAQ instead.
 
+Image overhaul coming soon! Until then, please enjoy this wall of text.
+
 1. Prepare the files (sprites, "Mail In" background, font) as shown in [the FAQ](../FAQ.md).
 2. [Download](https://github.com/UnofficialSamHub/MeadowMaker/releases) and open MeadowLand Maker. **Extract the ZIP file instead of running MLM directly.**
 3. Click "Make Pack".
