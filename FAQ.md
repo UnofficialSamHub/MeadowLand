@@ -3,19 +3,23 @@
 ## I want to create my own Resource Pack
 
 It's great that you are interested in making new themes for this program, thanks!
-feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
+Feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
+
+If you want to use the MeadowLand Maker for easier creation, please take a look at [How to make a Resource Pack with MLM](help/RPMLM.md) instead.
+
+1. Create a folder where we'll store your pack files
 
 ### I want to modify the sprites
 
 1. Get the base PNG by clicking [Here](https://drive.google.com/file/d/1YoKCgoS6XOMIvmqIbLWb0JIXG1apM6Sv/view?usp=sharing)
 2. Modify it as you like it (Please bear in mind that the boundries at this time are fixed, it may take some trial and error to figure them out)
-3. Add it to a folder
+3. Add your new PNG to the folder
 
 ### I want to change the default green "Mail In" Background
 
 1. Create a 64 x 90 sized image
 2. Create the design that you want
-3. Add it to the folder along with your spritesheet
+3. Add your new background to the folder
 
 *At the moment you are unable to change the "Mail out" design*
 
@@ -24,11 +28,11 @@ feel free to share them with the community by sharing them on this site by creat
 1. Get the font that you want to use
 2. Double click on it to open it
 3. Take note of the Font Name
-4. Put the font file in the same folder as the rest of the files
+4. Add the font file to the folder
 
 ### How do I combine all of this into a pack?
 
-**Use the MeadowLandLauncher for easier generation! [Download MeadowLandLauncher today!](https://github.com/UnofficialSamHub/MeadowLauncher/releases)**
+**Use the MeadowLand Maker for easier generation! [Download MeadowLand Maker!](https://github.com/UnofficialSamHub/MeadowLauncher/releases)**
 1. Grab the template [Here](https://drive.google.com/file/d/1Vq4JUMLq9LFSfUV0UEndjm1RdGEm-Oj5/view?usp=sharing)
 2. Put it into the folder where all the other files are
 3. Change lines 5 - 8 accordingly (only modify the file names not anything outside the "")
