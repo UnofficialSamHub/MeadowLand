@@ -37,3 +37,5 @@
 [Christmas Pack](../ChristmasSpritePack.md)
 
 [Black and White Pack](../BlackAndWhitePack.md)
+
+[Game Boy Pack](../GameBoyPack.md)
