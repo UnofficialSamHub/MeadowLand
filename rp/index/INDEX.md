@@ -36,4 +36,4 @@
 
 [Christmas Pack](../ChristmasSpritePack.md)
 
-[Black and White Pack](../ChristmasSpritePack.md)
+[Black and White Pack](../BlackAndWhitePack.md)
