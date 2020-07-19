@@ -1,5 +1,7 @@
 # Resource Pack List
 
+**Do you want to make your very own pack?** Read [the FAQ](../../FAQ)!
+
 [Comic Sans Font](../ComicSans.md)
 
 [Sand Castle Sprite Pack](../Sandcastle.md)
