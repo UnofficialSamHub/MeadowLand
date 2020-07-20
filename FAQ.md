@@ -32,7 +32,7 @@ If you want to use the MeadowLand Maker for easier creation, please take a look 
 
 ### How do I combine all of this into a pack?
 
-**Use the MeadowLand Maker for easier generation! [Download MeadowLand Maker!](https://github.com/UnofficialSamHub/MeadowLauncher/releases)**
+**Use the MeadowLand Maker for easier generation! [Read how to use it here!](help/RPMLM.md)**
 1. Grab the template [Here](https://drive.google.com/file/d/1Vq4JUMLq9LFSfUV0UEndjm1RdGEm-Oj5/view?usp=sharing)
 2. Put it into the folder where all the other files are
 3. Change lines 5 - 8 accordingly (only modify the file names not anything outside the "")
