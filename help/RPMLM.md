@@ -5,7 +5,7 @@
 1. Prepare the files (sprites, "Mail In" background, font) as shown in [the FAQ](../FAQ.md).
 2. [Download](https://github.com/UnofficialSamHub/MeadowMaker/releases) and open MeadowLand Maker. **Extract the ZIP file instead of running MLM directly.**
 3. Watch this GIF!
-![GIF displaying how to generate a pack](https://i.imgur.com/3ca0Jxo.gif)
+![GIF displaying how to generate a pack](https://i.imgur.com/MtwNENL.gif)
 
 Text instructions for the GIF above:
 
