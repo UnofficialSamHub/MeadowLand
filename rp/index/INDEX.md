@@ -43,3 +43,5 @@
 [Game Boy Pack](../GameBoyPack.md)
 
 [Meadow City Pack](../MeadowCity.md)
+
+[White Squares](../whitesquares.md)
