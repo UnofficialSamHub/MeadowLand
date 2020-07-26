@@ -5,6 +5,8 @@
 It's great that you are interested in making new themes for this program, thanks!
 Feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
 
+Before you start working on a pack for MeadowLand, you'll be interested in reading the [Contributing Guide](CONTRIBUTING.md), specifically the Resource Pack Guidelines section.
+
 If you want to use the MeadowLand Maker for easier creation, please take a look at [How to make a Resource Pack with MLM](help/RPMLM.md) instead.
 
 1. Create a folder where we'll store your pack files
