@@ -30,6 +30,8 @@
 
 [Black and White Pack](../BlackAndWhitePack.md)
 
+[Christmas Pack](../ChristmasSpritePack.md)
+
 [Game Boy Pack](../GameBoyPack.md)
 
 [Meadow City Pack](../MeadowCity.md)
