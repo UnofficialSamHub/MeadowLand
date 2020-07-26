@@ -3,4 +3,4 @@
 {% include packs/footer.md %}
 
 ---
-{% include packs/spritesheets.md %}
+Work in progress!
