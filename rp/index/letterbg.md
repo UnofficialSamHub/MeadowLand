@@ -3,4 +3,6 @@
 {% include packs/footer.md %}
 
 ---
-Work in progress!
+{% for item in site.data.letterbg.packs %}
+<a href="{{ site.baseurl }}/rp/{{ item.url }}">{{ item.title }}</a>
+{% endfor %}

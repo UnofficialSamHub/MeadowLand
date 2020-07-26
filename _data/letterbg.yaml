@@ -1,13 +1,21 @@
-[Autumn Sprite Pack](../AutumnSpritePack.md)
+packs:
+  - title: Autumn Sprite Pack
+  url: AutumnSpritePack.md
 
-[Insanity Sprite Pack](../InsanitySpritePack.md) 
+  - title: Insanity Sprite Pack
+  url: InsanitySpritePack.md
 
-[Pink Cutie Mail Pack](../PinkCutie.md)
+  - title: Pink Cutie Mail Pack
+  url: PinkCutie.md
 
-[Nature Walk (More realistic colo(u)rs)](../NatureWalk.md)
+  - title: Nature Walk
+  url: NatureWalk.md
 
-[Christmas Pack](../ChristmasSpritePack.md)
+  - title: Christmas Pack
+  url: ChristmasSpritePack.md
 
-[Black and White Pack](../BlackAndWhitePack.md)
+  - title: Black and White Pack
+  url: BlackAndWhitePack.md
 
-[Game Boy Pack](../GameBoyPack.md)
+  - title: Game Boy Pack
+  url: GameBoyPack.md
