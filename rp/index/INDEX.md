@@ -2,6 +2,11 @@
 
 **Do you want to make your very own pack?** Read [the FAQ](../../FAQ)!
 
+## Packs recently taken down
+White Squares for being low quality (26/07/2020, 20:31 CEST)
+
+## Packs currently available
+
 [Comic Sans Font](../ComicSans.md)
 
 [Sand Castle Sprite Pack](../Sandcastle.md)
@@ -43,5 +48,3 @@
 [Game Boy Pack](../GameBoyPack.md)
 
 [Meadow City Pack](../MeadowCity.md)
-
-[White Squares](../whitesquares.md)
