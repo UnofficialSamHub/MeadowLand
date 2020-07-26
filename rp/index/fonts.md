@@ -3,4 +3,6 @@
 {% include packs/footer.md %}
 
 ---
-{% include packs/fonts.md %}
+{% for item in site.data.fonts.packs %}
+    [{{ item.title }}]({{ item.url }})
+{% endfor %}
