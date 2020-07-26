@@ -1,5 +1,6 @@
 # Packs containing letter backgrounds
-{% include packs/letterbg.md %}
-
 ---
 {% include packs/footer.md %}
+
+---
+{% include packs/letterbg.md %}

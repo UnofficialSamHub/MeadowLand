@@ -1,1 +1,0 @@
-[Comic Sans Font](../ComicSans.md)
