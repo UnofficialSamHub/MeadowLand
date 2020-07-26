@@ -1,4 +1,4 @@
-# Contributing to MeadowLand
+# The MeadowLand Guidelines
 ## Resource Pack Guidelines
 - Do not submit packs without transparent backgrounds
 - Do not submit packs that are the same/identical to another pack
