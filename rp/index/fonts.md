@@ -4,5 +4,5 @@
 
 ---
 {% for item in site.data.fonts.packs %}
-<a href="{{ site.baseurl }}/rp/{{ item.url }}">{{ item.title }}</a>
+<a href="{{ site.baseurl }}/rp/{{ item.url }}.html">{{ item.title }}</a>
 {% endfor %}
