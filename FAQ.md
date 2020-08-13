@@ -5,6 +5,8 @@
 It's great that you are interested in making new themes for this program, thanks!
 Feel free to share them with the community by sharing them on this site by creating a pull request yourself, or by asking someone else to do it.
 
+Before you start working on a pack for MeadowLand, you'll be interested in reading the [MeadowLand Guidelines](GUIDELINES.md), specifically the Resource Pack Guidelines section.
+
 If you want to use the MeadowLand Maker for easier creation, please take a look at [How to make a Resource Pack with MLM](help/RPMLM.md) instead.
 
 1. Create a folder where we'll store your pack files
@@ -32,7 +34,7 @@ If you want to use the MeadowLand Maker for easier creation, please take a look 
 
 ### How do I combine all of this into a pack?
 
-**Use the MeadowLand Maker for easier generation! [Download MeadowLand Maker!](https://github.com/UnofficialSamHub/MeadowLauncher/releases)**
+**Use the MeadowLand Maker for easier generation! [Read how to use it here!](help/RPMLM.md)**
 1. Grab the template [Here](https://drive.google.com/file/d/1Vq4JUMLq9LFSfUV0UEndjm1RdGEm-Oj5/view?usp=sharing)
 2. Put it into the folder where all the other files are
 3. Change lines 5 - 8 accordingly (only modify the file names not anything outside the "")

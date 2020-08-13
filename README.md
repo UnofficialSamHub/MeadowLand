@@ -25,10 +25,6 @@ Pot Noodle Migrated all the links over from the previous pack system
 
 MeadowLand has 280+ commits!
 
-## Want to help?
-
-[Make a fork of MeadowLand on GitHub](https://github.com/UnofficialSamHub/MeadowLand/) and send a pull request or make a pack for us! Even telling us how to mod the game more helps!
-
 ## FAQs
 
-Want to know how to make a Spritepack of your own? to find the answer to that and more [Click Here](FAQ.md) to go to our FAQ page
+Want to know how to make a Resource Pack of your own? Find out how to do that and more on [our FAQ page](FAQ.md)!
