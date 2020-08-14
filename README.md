@@ -7,7 +7,8 @@ Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and 
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
-## We have recently migrated to the new sprite pack system, if you notice any issues such as broken links please join the discord server below and let us know, it will be much appreciated 
+## Packs have been migrated
+If you notice any issues such as broken links please join the discord server below and let us know, it will be much appreciated 
 
 ## [Join Our Discord](https://discord.gg/W4kTbaV)
 
