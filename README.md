@@ -1,2 +1,2 @@
-# Hi, You are in the wrong place, sorry
-to access the site [click here](https://unofficialsamhub.github.io/MeadowLand/)
+# Uh oh! You're in the wrong place...
+To access the site, please [click here](https://unofficialsamhub.github.io/MeadowLand/Pages/homepage.html).
