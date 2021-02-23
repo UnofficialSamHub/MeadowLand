@@ -1,3 +1,12 @@
+---
+title: Insanity Sprite Pack
+parent: Sprite Packs
+has_children: false
+nav_order: 10
+---
+
+{% include analytics.html %}
+
 # Insanity Sprite Pack
 *absolute insanity.*
 
