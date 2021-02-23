@@ -58,7 +58,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "The meadowland team does not own the Desktop Meadow, we work closely with Samperson to ensure a safe environment where content can be shared <a href=\"https://samperson.itch.io/meadow\">Click here to go to the Desktop Meadow Itch.io page</a>"
+footer_content: "The MeadowLand team does not own the Desktop Meadow, we work closely with Samperson to ensure a safe environment where content can be shared. <a href=\"https://samperson.itch.io/meadow\">Click here to go to the Desktop Meadow itch.io page</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
