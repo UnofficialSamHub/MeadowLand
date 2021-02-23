@@ -10,7 +10,7 @@ nav_order: 5
 
 Thank you to the folloing people for without them the meadowland would not exist
 
-* Vuk
+* Vukky
 * Pot Noodles
 * Elly 2.0
 * Moonaliss
