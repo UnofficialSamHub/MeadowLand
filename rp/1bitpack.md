@@ -1,3 +1,12 @@
+---
+title: 1-Bit Spritepack
+parent: Sprite Packs
+has_children: false
+nav_order: 1
+---
+
+{% include analytics.html %}
+
 # 1-Bit Spritepack
 *Make your meadow a little bit more retro*
 

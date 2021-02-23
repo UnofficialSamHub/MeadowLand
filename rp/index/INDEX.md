@@ -1,3 +1,10 @@
+---
+layout: default
+title: Page not found
+nav_exclude: true
+search_exclude: true
+---
+
 # Resource Pack List
 
 **Do you want to make your very own pack?** Read [the FAQ](../../FAQ)!

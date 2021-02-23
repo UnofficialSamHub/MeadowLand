@@ -1,4 +1,13 @@
-## Meadow City SpritePack
+---
+title: Meadow City Sprite Pack
+parent: Sprite Packs
+has_children: false
+nav_order: 13
+---
+
+{% include analytics.html %}
+
+## Meadow City Sprite Pack
 *HEY! A man has fallen into the river in Meadow City!*
 
 **Author:** *funtainment*

@@ -1,3 +1,12 @@
+---
+title: Black and White Pack
+parent: Sprite Packs
+has_children: false
+nav_order: 3
+---
+
+{% include analytics.html %}
+
 ## Black and White Pack
 *I think the mailbird is a bit sad today.*
 

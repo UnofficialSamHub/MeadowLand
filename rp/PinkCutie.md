@@ -1,4 +1,13 @@
-# Pink Cutie
+---
+title: Pink Cutie Pack
+parent: Sprite Packs
+has_children: false
+nav_order: 17
+---
+
+{% include analytics.html %}
+
+# Pink Cutie Pack
 *PINK!*
 
 **Author:** *Coomsy*

@@ -1,4 +1,13 @@
-# Minecraft Flowers Pack
+---
+title: Minecraft Flowers Sprite Pack
+parent: Sprite Packs
+has_children: false
+nav_order: 14
+---
+
+{% include analytics.html %}
+
+# Minecraft Flowers Sprite Pack
 *Cause who doesn't want to bring some minecraft into your meadow*
 
 **Author:** *Pot Noodle*
