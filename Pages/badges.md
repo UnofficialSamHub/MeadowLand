@@ -8,9 +8,9 @@
 
 <br/>
 
-![Removed](https://img.shields.io/badge/-Removed-red)        - Something has been removed from the meadowland
+![Removed](https://img.shields.io/badge/-Removed-red)        - Something has been removed from the MeadowLand
 
-![Added](https://img.shields.io/badge/-Added-brightgreen)    - Something has been added to the meadowland
+![Added](https://img.shields.io/badge/-Added-brightgreen)    - Something has been added to the MeadowLand
 
-![Modified](https://img.shields.io/badge/-Modified-orange)   - Something has been modified on the meadowland
+![Modified](https://img.shields.io/badge/-Modified-orange)   - Something has been modified on the MeadowLand
 
