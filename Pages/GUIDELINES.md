@@ -13,4 +13,4 @@ nav_order: 3
 3. Do not submit low quality packs. This includes, but is not limited to:
 - Packs with random images that do not fit into the Meadow format
 - Packs without any effort put into them
-4. Please also check that the pack works before submitting it, due to the way the meadow was made you are limited with the sprite size that you can use
+4. Please check that the pack works before submitting it, due to the way the Meadow was made you may not resize the spritesheet
