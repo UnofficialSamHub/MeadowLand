@@ -24,7 +24,7 @@ Go to the [Special Thanks Page](thanks.md) to see a list of everyone who has con
 ## Welcome to the redesign
 hopefully you should be able to find your way around, use the nav. bar on the left hand side of the page
 
-## [Join The Discord Support Server Here](discord.gg/xZFRmPT)
+## [Join The Discord Support Server Here](https://discord.gg/xZFRmPT)
 
 ## What can I add to Meadow Land?
 Currently you can submit the following to the meadow:
@@ -33,7 +33,7 @@ Currently you can submit the following to the meadow:
 * Received letter background
 
 Please view the [Submission Guidelines](../Pages/GUIDELINES.md) before creating a pull request
-, If you do not know how to submit a spritepack then you can ask on the [support server](discord.gg/xZFRmPT) and someone will submit it for you
+, If you do not know how to submit a spritepack then you can ask on the [support server](https://discord.gg/xZFRmPT) and someone will submit it for you
 
 The Creator of the desktop meadow has also kindly asked that you do not decompile the meadow, thanks
 
