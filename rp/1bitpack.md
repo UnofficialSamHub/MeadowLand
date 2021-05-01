@@ -10,7 +10,7 @@ nav_order: 1
 # 1-Bit Spritepack
 *Make your meadow a little bit more retro*
 
-**Author:** *DashingZanyDirector*
+**Author:** *Erased#6030*
 
 **Download link:** *[Download](https://drive.google.com/file/d/1V8kQnzWs5mt_ddoFK5-sNA63TsR4lSIr/view?usp=sharing)*
 
