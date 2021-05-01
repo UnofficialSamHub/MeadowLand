@@ -14,7 +14,7 @@ Thank you to the folloing people for without them the meadowland would not exist
 * Pot Noodles
 * Elly 2.0
 * Moonaliss
-* DashingZanyDirector
+* Erased
 * P.Duck
 * Dashfox27
 * Mr.Roomba
