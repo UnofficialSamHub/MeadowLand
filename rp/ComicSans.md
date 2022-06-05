@@ -12,13 +12,13 @@ nav_order: 6
 
 ## THIS PACK IS NOW USELESS, DO NOT USE IT
 
-## Comic Sans Pack
+~~## Comic Sans Pack~~
 
-**Author:** *Pot Noodle*
+~~**Author:** *Pot Noodle*~~
 
-**Download link**: *[Download](https://drive.google.com/file/d/1dDJQ836_nvE1uFjNBKtkaMhx6J3T0X4W/view?usp=sharing)*
+~~**Download link**: *[Download](https://drive.google.com/file/d/1dDJQ836_nvE1uFjNBKtkaMhx6J3T0X4W/view?usp=sharing)*~~
 
 {% include graphics_install.md %}
 
-## Title Image Credit	
-Public Domain, https://commons.wikimedia.org/w/index.php?curid=743486
+~~## Title Image Credit~~
+~~Public Domain, https://commons.wikimedia.org/w/index.php?curid=743486~~
